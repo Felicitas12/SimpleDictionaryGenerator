@@ -1,0 +1,15 @@
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.csproj.AssemblyReference.cache
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.AssemblyInfoInputs.cache
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.AssemblyInfo.cs
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.csproj.CoreCompileInputs.cache
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\bin\Debug\net7.0\RandomProguardObfDictionary.exe
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\bin\Debug\net7.0\RandomProguardObfDictionary.deps.json
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\bin\Debug\net7.0\RandomProguardObfDictionary.runtimeconfig.json
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\bin\Debug\net7.0\RandomProguardObfDictionary.dll
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\bin\Debug\net7.0\RandomProguardObfDictionary.pdb
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.dll
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\refint\RandomProguardObfDictionary.dll
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.pdb
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\RandomProguardObfDictionary.genruntimeconfig.cache
+D:\Projects\RandomProguardObfDictionary\RandomProguardObfDictionary\obj\Debug\net7.0\ref\RandomProguardObfDictionary.dll
